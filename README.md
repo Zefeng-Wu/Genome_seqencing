@@ -13,15 +13,15 @@
         LAST QUOTA-ALIGN
         
         KS based： all_vs_all blast--- > 基因家族（mcl）----> PAML
-        
-        
+               
 ## 2.脚苔
 ### 1.组装
         BUSCO scores
 
 ### 2.基因预测
         Braker2（Augustus）
-
+### 3.进化分析
+        concatenation and multispecies coalescent approach
 ### 5.重复序列注释
        RepeatModeler + LTR_retriever+ fileter（UniProt）+ RepeatMasker +EVidenceModeler (EVM)
        
