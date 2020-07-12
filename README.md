@@ -23,7 +23,7 @@
 ### 3.进化分析
         concatenation and multispecies coalescent approach
 ### 4.WGD分析
-        combination of synonymous divergence (Ks) and synteny analyse
+        combination of synonymous divergence (Ks) and synteny analyse （DupPipe）
 ### 5.重复序列注释
        RepeatModeler + LTR_retriever+ fileter（UniProt）+ RepeatMasker +EVidenceModeler (EVM)
        
