@@ -7,4 +7,22 @@
 ### 2.基因预测
         Genscan + Augustus + MAKER
 ### 3.进化分析
-        OrthoFinde
+        OrthoFinder
+        multispecies coalescent model and a supermatrix method
+### 4.推断WGD
+        LAST QUOTA-ALIGN
+        
+        KS based： all_vs_all blast--- > 基因家族（mcl）----> PAML
+        
+        
+## 2.脚苔
+### 1.组装
+        BUSCO scores
+
+### 2.基因预测
+        Braker2（Augustus）
+
+### 5.重复序列注释
+       RepeatModeler + LTR_retriever+ fileter（UniProt）+ RepeatMasker +EVidenceModeler (EVM)
+       
+       
